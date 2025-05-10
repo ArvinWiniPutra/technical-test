@@ -1,5 +1,10 @@
 NEXCENT LANDING PAGE
-A Responsive landing page intended as a front-end developer technical test at GeekGarden using Vue.JS, Tailwind CSS, and Vite
+A Responsive landing page intended as a front-end developer technical test at GeekGarden
+
+TECHNOLOGIES USED
+- Vue.js 3 with Composition API
+- Tailwind CSS for styling
+- Vite for fast development and building
 
 PROJECT STRUCTURE
 - `src/components/landing/` - Contains all landing page sections
